@@ -1,0 +1,13 @@
+node_id,node_x,node_y,node_type
+0,0,3,Gate_node
+1,0,6,Gate_node
+2,3,0,Gate_node
+3,3,3,Common_node
+4,3,6,Common_node
+5,3,9,Gate_node
+6,6,0,Gate_node
+7,6,3,Common_node
+8,6,6,Common_node
+9,6,9,Gate_node
+10,9,3,Gate_node
+11,9,6,Gate_node
